@@ -25,7 +25,6 @@ def joinchat():
 
 def loadingComplete(line):
     if("End of /NAMES list" in line):
-        loadPoints()
         print("\n" + NICK + " has joined the chat!")
         log("\n======================================")
         log(NICK + " has joined the chat! ~ " + str(datetime.now().hour) + ":" + str(datetime.now().minute) + ":" + str(datetime.now().second))
