@@ -1,18 +1,15 @@
 HOST = "irc.twitch.tv"
 PORT = 6667
-PASS = "oauth:75mjsg7tpnmjcv41rfr6l0brbz0w5q"
-NICK = "Qube_Bot"
-CHANNEL = "moltencube"
-OWNER = "moltencube"
+PASS = "<bot OAUTH code>"
+NICK = "<Bot Nickname>"
+CHANNEL = "<Host Channel Name>"
+OWNER = "<Bot Owner Name (generally same as host)>"
 
-MODS = {"moltencube",
-		"belmont164"}
+# chat moderators
+MODS = {"<username>"}
 
-WHITELIST = {"kcgoldenknight",
-			 "im_homer",
-			 "zenithstarr"}
+# whitelist for private commands
+WHITELIST = {"<username>"}
 
-BLACKLIST = {"loser"}
-
-# qube_b0t: oauth:75mjsg7tpnmjcv41rfr6l0brbz0w5q
-# moltencube: oauth:gxwfysq8o2sutfr64psphskdwwi2l4
+# blacklist to restrict users from interacting with the bot
+BLACKLIST = {"<username>"}

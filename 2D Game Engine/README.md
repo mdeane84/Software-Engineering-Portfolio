@@ -19,7 +19,7 @@ The inventory and crafting systems can be manipulated using the mouse cursor. Th
 ### Interaction
 
 * **Attack** - Left Mouse Button (*a box appears for a single frame indicating the hitbox*)
-* **equip** - Right Mouse Button (*alternatively an item can be drag-n-dropped in the appropriate slot*)
+* **equip** - Right Mouse Button (*alternatively, an item can be drag-n-dropped in the appropriate slot*)
 * **pick up** - Spacebar
 * **crafting** - c
 * **inventory** - e (*a storage item must be equipped - i.e. the bulb pouch*)
