@@ -10,9 +10,17 @@ Here are some descriptions of the projects currently in the repository. More inf
 
 This is by far the largest project I have worked on. It is a Java game engine written using only default Java libraries. The art assets were provided courtesy of a friend, but the code was written by me.
 
+### DOE lv6 Requirement Calculator (Java)
+
+This is Java swing application that calculates the minimum efficiency and maximum no-load power consumption for external power supplies according to the Department of Energy level 6 regulations. It can easily be modified to perform different calculations meaning it can be easily repurposed.
+
 ### Game of Life (Java)
 
 This project was based on Conway's Game of Life. It is a set of rules meant to crudely simulate animal populations over multiple generations. The rules involve an animal (or heard of animals if you prefer to think on a larger scale) that will either survive to the next generation or die due to overpopulation or underpopulation. Those that survive have the opportunity to reproduce continues the cycle. The simulation usually runs for a few thousand iterations before settling in a stable state that repeats indefinitely.
+
+### Square Sums Problem (Java)
+
+Given a natural number, n, this calculates a string of all the numbers from 0 to n such that any adjacent numbers add to be a perfect square. It slows down as numbers get larger because it is a brute force algorithm, but it is quick up to about 42.
 
 ### Twitch.tv Chat-Bot (Python)
 
