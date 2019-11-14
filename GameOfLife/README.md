@@ -13,5 +13,5 @@ Each cell in the grid determines its next state (either occupied or unoccupied) 
 
 ## Controls
 
-* **Start/Stop** - Shift
+* **Start/Stop** - Enter
 * **Randomize** - R

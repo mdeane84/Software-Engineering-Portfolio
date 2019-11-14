@@ -10,6 +10,10 @@ Here are some descriptions of the projects currently in the repository. More inf
 
 This is by far the largest project I have worked on. It is a Java game engine written using only default Java libraries. The art assets were provided courtesy of a friend, but the code was written by me.
 
+### Game of Life (Java)
+
+This project was based on Conway's Game of Life. It is a set of rules meant to crudely simulate animal populations over multiple generations. The rules involve an animal (or heard of animals if you prefer to think on a larger scale) that will either survive to the next generation or die due to overpopulation or underpopulation. Those that survive have the opportunity to reproduce continues the cycle. The simulation usually runs for a few thousand iterations before settling in a stable state that repeats indefinitely.
+
 ### Twitch.tv Chat-Bot (Python)
 
 This is a chatbot that uses sockets to communicate with the twitch.tv servers to interact with messages in chat. The bot can respond to messages with either a pre-written response or with the result of a function that takes parameters from the message.
