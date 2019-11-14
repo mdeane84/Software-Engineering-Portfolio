@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="2D Game Engine/launcher.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/2D Game Engine/launcher.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=2D Game Engine/src&lt;dev.moltencube.mygame{Launcher.java[Launcher" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=2D Game Engine/src"/>
+        <javaElement handleIdentifier="=2D Game Engine/res"/>
+        <file path="/2D Game Engine/.classpath"/>
+        <file path="/2D Game Engine/.project"/>
+    </selectedElements>
+</jardesc>
