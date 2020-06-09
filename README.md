@@ -1,6 +1,6 @@
 # Software-Engineering-Portfolio
 
-My name is Mark Deane. I’m a junior at Oregon State University and will graduate with a BS: CS in computer systems June 2021. Classes I plan to complete before the summer are Software Engineering (CS 361/362), Databases (CS 340), Analysis of Algorithms (CS 325), Operating Systems (CS 344), and more.
+My name is Mark Deane. I’m a senior at Oregon State University and will graduate with a BS: CS in computer systems June 2021. I believe in software that makes life easier so there is more time for the things that matter.
 
 ## Overview of Projects
 
